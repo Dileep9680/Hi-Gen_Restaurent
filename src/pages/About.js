@@ -44,7 +44,7 @@ const About = () => {
         <br />
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi,
-          deserunt libero reprehenderit cum sint fugit cumque temporibus modi
+          deserunt libero reprehenderit cum sint fugit cumque temporibus modi 
           facere eveniet amet obcaecati ducimus harum velit maxime vel qui
           voluptatibus quam odio corrupti saepe, voluptas dolorum quidem
           tempore? Esse sapiente molestias minus enim quisquam dolorum eum culpa
